@@ -1,4 +1,4 @@
-# signalman
+# Pulse
 
 ## Project setup
 ```
